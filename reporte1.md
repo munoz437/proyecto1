@@ -1,5 +1,5 @@
 # Jorge Luis Muñoz Elías
-#Reporte 28/08/2020 15:31
+#Reporte 28/08/2020 15:34
 ### Rango 1-100
 ECHO est� desactivado.
 - **Cantidad de procesos:** 2 
