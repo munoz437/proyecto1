@@ -5,6 +5,5 @@
 - **Memoria total:** 200MB        
 | PID  | Proceso         | Memoria |        
 |------|-----------------|---------| 
-
 | 4  | System             | 1,432     |       
 | 100  | Registry             | 60,336     |       
