@@ -1,87 +1,89 @@
 # Jorge Luis Muñoz Elías
-# Reporte 28/08/2020 19:12
+# Reporte 28/08/2020 19:17
 ### Rango 1-200  
 - **Cantidad de procesos:** 2 
-- **Memoria total:** 0MB        
+- **Memoria total:** 62788B        
  .  
   | PID  | Proceso         | Memoria |        
   |------|-----------------|---------    |        	
-  | 4  | System             | 1,376MB     |       
-  | 100  | Registry             | 61,508MB     |       
+  | 4  | System             | 1,380B     |       
+  | 100  | Registry             | 61,408B     |       
 ### Rango 201-400  
 - **Cantidad de procesos:** 1 
-- **Memoria total:** 0MB        
+- **Memoria total:** 70176B        
  .  
   | PID  | Proceso         | Memoria |        
   |------|-----------------|---------    |        	
-  | 332  | ekrn.exe             | 69,592MB     |       
+  | 332  | ekrn.exe             | 70,176B     |       
 ### Rango 401-600  
-- **Cantidad de procesos:** 2 
-- **Memoria total:** 0MB        
+- **Cantidad de procesos:** 3 
+- **Memoria total:** 38684B        
  .  
   | PID  | Proceso         | Memoria |        
   |------|-----------------|---------    |        	
-  | 464  | smss.exe             | 236MB     |       
-  | 412  | dwm.exe             | 40,432MB     |       
+  | 464  | smss.exe             | 236B     |       
+  | 528  | tasklist.exe             | 8,248B     |       
+  | 412  | dwm.exe             | 38,448B     |       
 ### Rango 601-800  
 - **Cantidad de procesos:** 2 
-- **Memoria total:** 0MB        
+- **Memoria total:** 12464B        
  .  
   | PID  | Proceso         | Memoria |        
   |------|-----------------|---------    |        	
-  | 740  | csrss.exe             | 1,536MB     |       
-  | 748  | svchost.exe             | 11,172MB     |       
+  | 740  | csrss.exe             | 1,448B     |       
+  | 748  | svchost.exe             | 11,016B     |       
 ### Rango 801-1000  
 - **Cantidad de procesos:** 4 
-- **Memoria total:** 0MB        
+- **Memoria total:** 113080B        
  .  
   | PID  | Proceso         | Memoria |        
   |------|-----------------|---------    |        	
-  | 820  | wininit.exe             | 68MB     |       
-  | 940  | services.exe             | 5,256MB     |       
-  | 948  | lsass.exe             | 7,520MB     |       
-  | 836  | MsMpEng.exe             | 91,864MB     |       
+  | 820  | wininit.exe             | 68B     |       
+  | 940  | services.exe             | 5,164B     |       
+  | 948  | lsass.exe             | 7,436B     |       
+  | 836  | MsMpEng.exe             | 100,216B     |       
 ### Rango 1001-1200  
-- **Cantidad de procesos:** 3 
-- **Memoria total:** 0MB        
+- **Cantidad de procesos:** 4 
+- **Memoria total:** 142656B        
  .  
   | PID  | Proceso         | Memoria |        
   |------|-----------------|---------    |        	
-  | 1124  | fontdrvhost.exe             | 116MB     |       
-  | 1108  | svchost.exe             | 15,544MB     |       
-  | 1004  | sublime_text.exe             | 90,876MB     |       
+  | 1124  | fontdrvhost.exe             | 116B     |       
+  | 1108  | svchost.exe             | 14,944B     |       
+  | 1048  | chrome.exe             | 36,608B     |       
+  | 1004  | sublime_text.exe             | 90,984B     |       
 ### Rango 1201-1400  
 - **Cantidad de procesos:** 3 
-- **Memoria total:** 0MB        
+- **Memoria total:** 52172B        
  .  
   | PID  | Proceso         | Memoria |        
   |------|-----------------|---------    |        	
-  | 1236  | svchost.exe             | 9,472MB     |       
-  | 1384  | svchost.exe             | 36,232MB     |       
-  | 1296  | ApplicationFrameHost.exe             | 6,708MB     |       
+  | 1236  | svchost.exe             | 9,392B     |       
+  | 1384  | svchost.exe             | 36,440B     |       
+  | 1296  | ApplicationFrameHost.exe             | 6,712B     |       
 ### Rango 1401-1600  
 - **Cantidad de procesos:** 5 
-- **Memoria total:** 0MB        
+- **Memoria total:** 157108B        
  .  
   | PID  | Proceso         | Memoria |        
   |------|-----------------|---------    |        	
-  | 1436  | svchost.exe             | 1,616MB     |       
-  | 1444  | svchost.exe             | 11,712MB     |       
-  | 1488  | svchost.exe             | 12,632MB     |       
-  | 1464  | svchost.exe             | 32,880MB     |       
-  | 1588  | svchost.exe             | 25,948MB     |       
+  | 1436  | svchost.exe             | 1,616B     |       
+  | 1488  | svchost.exe             | 11,396B     |       
+  | 1444  | svchost.exe             | 11,784B     |       
+  | 1464  | svchost.exe             | 32,496B     |       
+  | 1588  | svchost.exe             | 25,456B     |       
 ### Rango 1601-1800  
 - **Cantidad de procesos:** 2 
-- **Memoria total:** 0MB        
+- **Memoria total:** 19072B        
  .  
   | PID  | Proceso         | Memoria |        
   |------|-----------------|---------    |        	
-  | 1700  | CVHSVC.EXE             | 3,332MB     |       
-  | 1604  | svchost.exe             | 15,472MB     |       
+  | 1700  | CVHSVC.EXE             | 3,308B     |       
+  | 1604  | svchost.exe             | 15,764B     |       
 ### Rango 1801-2000  
 - **Cantidad de procesos:** 1 
-- **Memoria total:** 0MB        
+- **Memoria total:** 9220B        
  .  
   | PID  | Proceso         | Memoria |        
   |------|-----------------|---------    |        	
-  | 1936  | RuntimeBroker.exe             | 9,216MB     |       
+  | 1936  | RuntimeBroker.exe             | 9,220B     |       
